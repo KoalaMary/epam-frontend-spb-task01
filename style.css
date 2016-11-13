@@ -1,0 +1,34 @@
+body {
+  font-family: Arial;
+  font-size: 14.66px;
+}
+
+.container {
+  width: 794px;
+  margin: auto;
+  padding-left: 100px;
+  padding-right: 100px;
+  box-sizing: border-box;
+  border: 2px solid gray;
+}
+
+.logo {
+  margin-top: 96px;
+}
+
+a {
+  color: #bb0000;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin-bottom: 15px;
+}
+
+ul, ol {
+  margin: 0;
+}
